@@ -38,7 +38,9 @@ STEPS INVOLVED IN THIS PROJECT:
              
              
 5.Explanatory Data Analysis:
+
              1.Distribution  of features.
+             
              2.Feature vs Target.
              
 6.Using correlation matrix to find the correlation between features.
