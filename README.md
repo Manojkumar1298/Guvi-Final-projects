@@ -174,18 +174,16 @@ Out of theses SMOTE gives best accuracy.
 13.Splitting the model into train and test.
 
 14.Fitting the data with different classifier models.
-
-                          1.Logistic Regression.
                           
-                          2.Random Forest Classifier.
+                          1.Random Forest Classifier.
                           
-                          3.Decision Tree classifier.
+                          2.Decision Tree classifier.
                           
-                          4.Gradient bossting classifier.
+                          3.Gradient bossting classifier.
                           
-                          5.XG Boost classifier.
+                          4.XG Boost classifier.
                           
-                          6.KNN Classifier.
+                          5.KNN Classifier.
                           
 15.Checking the feature importance of different models.
 
@@ -196,7 +194,6 @@ Out of theses SMOTE gives best accuracy.
   These are two important features.
 
 16.Out of all the classifier models KNN classifier gives the best accuracy of 0.87.
-
 
 
 
